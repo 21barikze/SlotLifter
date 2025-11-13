@@ -60,7 +60,7 @@ img_size:
 - 128
 n_scenes: 5
 dataset: uorf
-dataset_root: /home/yuliu/Dataset/uorf
+dataset_root: /data/1barikze/Slotlifter/data
 num_vis: 20
 max_depth: 10
 visualized_indices: null
