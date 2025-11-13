@@ -1,4 +1,4 @@
-data/*
+
 slurm/
 wandb/
 lightning_logs/
